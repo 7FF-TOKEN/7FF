@@ -65,3 +65,14 @@ Smart Contract Link: https://bscscan.com/token/0xD2c52553f83C0AA252D7ce1F10c014F
 
 ![image](https://user-images.githubusercontent.com/67062058/187182509-40c6798e-e112-4b1d-b3ca-689ed82ffd69.png)
 
+
+Team Development	700.000.000
+Marketing 	500.000.000
+Pre Sale	120.000.000
+Airdrop & Bounties	350.000.000
+Ecosystem	2.300.000.000
+Partnerships	500.000.000
+Reserve	600.000.000
+Stacking	2.000.000.000
+![image](https://user-images.githubusercontent.com/67062058/187182884-55e54231-00bb-4ff0-b24b-d2ff3ed3ef7b.png)
+
