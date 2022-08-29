@@ -74,5 +74,6 @@ Ecosystem	2.300.000.000
 Partnerships	500.000.000
 Reserve	600.000.000
 Stacking	2.000.000.000
+
 ![image](https://user-images.githubusercontent.com/67062058/187182884-55e54231-00bb-4ff0-b24b-d2ff3ed3ef7b.png)
 
