@@ -82,11 +82,17 @@ Smart Contract Link: https://bscscan.com/token/0xD2c52553f83C0AA252D7ce1F10c014F
 Vesting Schedule
 
 Ecosystem     	    2.500.000.000     (%1 )
+
 Stacking	          2.000.000.000     (%1 )
+
 Team Development	  700.000.000       (%1 )
+
 Marketing 	        500.000.000       (%1 )
+
 Pre Sale            120.000.000       (%1 )
+
 Airdrop & Bounties	150.000.000       (%1 )
+
 Partnerships	      500.000.000       (%1 )
 
 Reserve	            600.000.000       (%1 )   
