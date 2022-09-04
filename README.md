@@ -74,27 +74,32 @@ Smart Contract Number: 0xD2c52553f83C0AA252D7ce1F10c014F32f99A90D
 
 Smart Contract Link: https://bscscan.com/token/0xD2c52553f83C0AA252D7ce1F10c014F32f99A90D
 
+
 ![image](https://user-images.githubusercontent.com/67062058/187182509-40c6798e-e112-4b1d-b3ca-689ed82ffd69.png)
 
 
 ![image](https://user-images.githubusercontent.com/67062058/187182884-55e54231-00bb-4ff0-b24b-d2ff3ed3ef7b.png)
 
+
 Vesting Schedule
 
-Ecosystem     	    2.500.000.000     (%1 6 Months Vesting ,%99 60 month Vesting )
+Ecosystem     	    2.500.000.000     (%1 - 6 Months Vesting ,%99 60 month Vesting )
 
-Stacking	          2.000.000.000     (%1 6 Months Vesting ,%99 60 month Vesting )
+Stacking	          2.000.000.000     (%1 - 6 Months Vesting ,%99 60 month Vesting )
 
-Team Development	  700.000.000       (%1 3 Months Vesting ,%99 12 months cliff, 60 Months Linear Vesting )
+Team Development	  700.000.000       (%1 - 3 Months Vesting ,%99 12 months cliff, 60 Months Linear Vesting )
 
-Marketing 	        500.000.000       (%1 3 Months Vesting ,%99 12 months cliff, 60 Months Linear Vesting )
+Marketing 	        500.000.000       (%1 - 3 Months Vesting ,%99 12 months cliff, 60 Months Linear Vesting )
 
-Airdrop & Bounties	150.000.000       (%1 3 Months Vesting ,%99 6 months cliff, 60 Months Linear Vesting)
+Airdrop & Bounties	150.000.000       (%1 - 3 Months Vesting ,%99 6 months cliff, 60 Months Linear Vesting )
 
-Partnerships	      500.000.000       (%1 3 Months Vesting ,%99 12 months cliff, 60 Months Linear Vesting)
+Partnerships	      500.000.000       (%1 - 3 Months Vesting ,%99 12 months cliff, 60 Months Linear Vesting )
 
-Reserve	            600.000.000       (%1 3 Months Vesting ,%99 12 months cliff, 60 Months Linear Vesting)   
+Reserve	            600.000.000       (%1 - 3 Months Vesting ,%99 12 months cliff, 60 Months Linear Vesting )   
 
-Pre Sale            120.000.000       (%100 UNLOCK)
+Pre Sale            120.000.000       (%100 - UNLOCK )
+
+
+
 
 
