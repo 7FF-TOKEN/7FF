@@ -1,4 +1,3 @@
-![7ff logo 2](https://user-images.githubusercontent.com/67062058/188310007-2d49fdf9-7565-49bf-a732-9af4f820ac00.png)
 ![zyro-image](https://user-images.githubusercontent.com/67062058/188310287-3c2eace2-3f03-4182-9500-5f9747c37dca.png)
 
 
