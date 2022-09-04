@@ -72,3 +72,7 @@ Smart Contract Link: https://bscscan.com/token/0xD2c52553f83C0AA252D7ce1F10c014F
 
 ![image](https://user-images.githubusercontent.com/67062058/187182884-55e54231-00bb-4ff0-b24b-d2ff3ed3ef7b.png)
 
+Vesting Schedule
+
+
+
