@@ -88,6 +88,7 @@ Marketing 	        500.000.000       (%1 )
 Pre Sale            120.000.000       (%1 )
 Airdrop & Bounties	150.000.000       (%1 )
 Partnerships	      500.000.000       (%1 )
+
 Reserve	            600.000.000       (%1 )   
 
 
