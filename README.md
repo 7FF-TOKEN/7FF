@@ -1,3 +1,6 @@
+![resim_2022-09-01_185737411-removebg-preview](https://user-images.githubusercontent.com/67062058/188309988-a3213272-0db6-4999-97ea-320a733cba59.png)
+
+
 # 7FF
 7-24 FOR FUN TOKEN
 
