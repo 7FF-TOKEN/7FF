@@ -68,7 +68,7 @@ Token symbol: 7FF
 
 Total Supply of 7,070,000,000 7FF. 
 
-7FF is BEP20 and provides worldwide cheap and fast Money transfers.
+7FF is BEP20 on BSC-Chain and provides worldwide cheap and fast Money transfers.
 
 Smart Contract Number: 0xD2c52553f83C0AA252D7ce1F10c014F32f99A90D
 
