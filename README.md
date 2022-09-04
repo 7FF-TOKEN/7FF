@@ -66,7 +66,7 @@ Token name: 7-24 FOR FUN TOKEN
 
 Token symbol: 7FF
 
-[7FF] got a total supply of 7,070,000,000 7FF. 
+Total Supply of 7,070,000,000 7FF. 
 
 7FF is BEP20 and provides worldwide cheap and fast Money transfers.
 
