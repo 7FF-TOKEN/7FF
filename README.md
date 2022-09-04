@@ -57,7 +57,14 @@ Block Verification Speed
 Transaction speed or Block verification speed for both ERC20 and BEP20 tokens varies largely. The PoSA block validation method gives BEP20 transactions a faster execution speed as compared to transactions conducted through ERC20. The average block verification speed on the underlying Blockchains is approximately 3 seconds for BSC and close to 15 seconds for Ethereum. Though Ethereum is planning to move from Proof of Work to Proof of Stake in the coming days, the execution time for ERC20 transactions may reduce to a greater extent.
 
 
+
+
+
 Technical Details**
+
+Token name: 7-24 FOR FUN TOKEN
+
+Token symbol: 7FF
 
 [7FF] got a total supply of 7,070,000,000 7FF. 
 
@@ -74,5 +81,13 @@ Smart Contract Link: https://bscscan.com/token/0xD2c52553f83C0AA252D7ce1F10c014F
 
 Vesting Schedule
 
+Ecosystem     	    2.500.000.000     (%1 )
+Stacking	          2.000.000.000     (%1 )
+Team Development	  700.000.000       (%1 )
+Marketing 	        500.000.000       (%1 )
+Pre Sale            120.000.000       (%1 )
+Airdrop & Bounties	150.000.000       (%1 )
+Partnerships	      500.000.000       (%1 )
+Reserve	            600.000.000       (%1 )   
 
 
