@@ -90,15 +90,15 @@ Stacking	          2.000.000.000      (%1 - 6 Months Vesting ,%99 60 month Vesti
 
 Team Development	  700.000.000       (%1 - 3 Months Vesting ,%99 30 months cliff, 60 Months Linear Vesting )
 
-Marketing 	        500.000.000       (%1 - 3 Months Vesting ,%99 30 months cliff, 60 Months Linear Vesting )
+Reserve	            600.000.000       (%1 - 3 Months Vesting ,%99 30 months cliff, 60 Months Linear Vesting )   
+
+Partnerships	        500.000.000       (%1 - 3 Months Vesting ,%99 30 months cliff, 60 Months Linear Vesting )
+
+Marketing 	      500.000.000       (%1 - 3 Months Vesting ,%99 30 months cliff, 60 Months Linear Vesting )
 
 Airdrop & Bounties	150.000.000       (%1 - 3 Months Vesting ,%99 30 months cliff, 60 Months Linear Vesting )
 
-Partnerships	      500.000.000       (%1 - 3 Months Vesting ,%99 30 months cliff, 60 Months Linear Vesting )
-
-Reserve	            600.000.000       (%1 - 3 Months Vesting ,%99 30 months cliff, 60 Months Linear Vesting )   
-
-Pre Sale            120.000.000       (%100 - UNLOCK )
+Startup Supply            120.000.000       (%100 - UNLOCK )
 
 
 
