@@ -84,7 +84,7 @@ Smart Contract Link: https://bscscan.com/token/0xD2c52553f83C0AA252D7ce1F10c014F
 
 Vesting Schedule
 
-Ecosystem     	    2.500.000.000      (%1 - 6 Months Vesting ,%99 60 month Vesting )
+Ecosystem     	    2.500.000.000      (%100 84 month Vesting )
 
 Stacking	          2.000.000.000      (%1 - 6 Months Vesting ,%99 60 month Vesting )
 
