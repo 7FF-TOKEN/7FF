@@ -75,7 +75,7 @@ Smart Contract Number: 0xD2c52553f83C0AA252D7ce1F10c014F32f99A90D
 Smart Contract Link: https://bscscan.com/token/0xD2c52553f83C0AA252D7ce1F10c014F32f99A90D
 
 
-![image](https://user-images.githubusercontent.com/67062058/187182509-40c6798e-e112-4b1d-b3ca-689ed82ffd69.png)
+![image](https://user-images.githubusercontent.com/67062058/189147126-822e41a1-d9f5-45a4-80cb-c7cbc599fed7.png)
 
 
 ![image](https://user-images.githubusercontent.com/67062058/187182884-55e54231-00bb-4ff0-b24b-d2ff3ed3ef7b.png)
