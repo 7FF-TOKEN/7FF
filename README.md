@@ -88,15 +88,15 @@ Ecosystem     	    2.500.000.000      (%100 84 month Vesting )
 
 Stacking	          2.000.000.000      (%1 - 6 Months Vesting ,%99 60 month Vesting )
 
-Team Development	  700.000.000       (%1 - 3 Months Vesting ,%99 12 months cliff, 60 Months Linear Vesting )
+Team Development	  700.000.000       (%1 - 3 Months Vesting ,%99 30 months cliff, 60 Months Linear Vesting )
 
-Marketing 	        500.000.000       (%1 - 3 Months Vesting ,%99 12 months cliff, 60 Months Linear Vesting )
+Marketing 	        500.000.000       (%1 - 3 Months Vesting ,%99 30 months cliff, 60 Months Linear Vesting )
 
-Airdrop & Bounties	150.000.000       (%1 - 3 Months Vesting ,%99 6 months cliff, 60 Months Linear Vesting )
+Airdrop & Bounties	150.000.000       (%1 - 3 Months Vesting ,%99 30 months cliff, 60 Months Linear Vesting )
 
-Partnerships	      500.000.000       (%1 - 3 Months Vesting ,%99 12 months cliff, 60 Months Linear Vesting )
+Partnerships	      500.000.000       (%1 - 3 Months Vesting ,%99 30 months cliff, 60 Months Linear Vesting )
 
-Reserve	            600.000.000       (%1 - 3 Months Vesting ,%99 12 months cliff, 60 Months Linear Vesting )   
+Reserve	            600.000.000       (%1 - 3 Months Vesting ,%99 30 months cliff, 60 Months Linear Vesting )   
 
 Pre Sale            120.000.000       (%100 - UNLOCK )
 
