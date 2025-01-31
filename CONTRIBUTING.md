@@ -2,21 +2,31 @@
 
 * beessy
 *
+*
+*
+
+
 
 - Team Member
 
 * 
 * 
+*
 
 
-- Contributing member
+
+
+- Contributing (Member,User,Partner,Sponsor)
 
 *
 *
+*
+
 
 
 - Parterships
 
+*
 *
 *
 
