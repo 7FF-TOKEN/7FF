@@ -6,6 +6,7 @@
 7-24 FOR FUN TOKEN
 
 
+
 Intro**
 
 The Rise of Bitcoin in the last years has shown that cryptocurrency gets more and more accepted worldwide. And that's just the beginning.  The Future for Bitcoin and other cryptocurrencies looks great. 
